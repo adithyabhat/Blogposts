@@ -1,5 +1,4 @@
-title: Swift 4 and iOS: Posting multipart form data using URLSession
-tags: swift,ios,ios-urlrequest
+## Swift 4 and iOS: Posting multipart form data using URLSession
 
 For posting multi part form data in Swift iOS, you need to have the data formatted in a specific format. The content has to contain a boundry constant, at the start and end. 
 
